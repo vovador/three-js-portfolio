@@ -63,19 +63,19 @@ export const myProjects = [
     subdesc:
       "Easily rearrange items in your org chart view using a simple drag-and-drop interface. Change connections or establish new relations just in a few simple clicks.",
     href: "https://monday.com/marketplace/listing/10000312/org-chart",
-    texture: "/textures/project/project1.mp4",
-    logo: "/assets/project-logo1.png",
+    texture: "textures/project/project1.mp4",
+    logo: "assets/project-logo1.png",
     logoStyle: {
       backgroundColor: "#2A1816",
       border: "0.2px solid #36201D",
       boxShadow: "0px 0px 60px 0px #AA3C304D",
     },
-    spotlight: "/assets/spotlight1.png",
+    spotlight: "assets/spotlight1.png",
     tags: [
       {
         id: 1,
         name: "React.js",
-        path: "/assets/react.svg",
+        path: "assets/react.svg",
       },
       {
         id: 2,
@@ -85,12 +85,12 @@ export const myProjects = [
       {
         id: 3,
         name: "TypeScript",
-        path: "/assets/typescript.png",
+        path: "assets/typescript.png",
       },
       {
         id: 4,
         name: "Framer Motion",
-        path: "/assets/framer.png",
+        path: "assets/framer.png",
       },
     ],
   },
@@ -100,19 +100,19 @@ export const myProjects = [
     subdesc:
       "With fine-tuned control over sync settings, including key column matching and column mappings, Resynced ensures your data stays consistent, organized, and up-to-date across all your tools.",
     href: "https://app.resynced.io/",
-    texture: "/textures/project/project2.mp4",
-    logo: "/assets/project-logo2.png",
+    texture: "textures/project/project2.mp4",
+    logo: "assets/project-logo2.png",
     logoStyle: {
       backgroundColor: "#13202F",
       border: "0.2px solid #17293E",
       boxShadow: "0px 0px 60px 0px #2F6DB54D",
     },
-    spotlight: "/assets/spotlight2.png",
+    spotlight: "assets/spotlight2.png",
     tags: [
       {
         id: 1,
         name: "React.js",
-        path: "/assets/react.svg",
+        path: "assets/react.svg",
       },
       {
         id: 2,
@@ -122,12 +122,12 @@ export const myProjects = [
       {
         id: 3,
         name: "TypeScript",
-        path: "/assets/typescript.png",
+        path: "assets/typescript.png",
       },
       {
         id: 4,
         name: "Framer Motion",
-        path: "/assets/framer.png",
+        path: "assets/framer.png",
       },
     ],
   },
@@ -152,7 +152,7 @@ export const workExperiences = [
     duration: "March 2021 - September 2024",
     title:
       "In this role, I was responsible for the end-to-end development of CRM automation applications. My responsibilities included: Business Logic Development, Security, Automated Testing, Deployment",
-    icon: "/assets/leanylabs.png",
+    icon: "assets/leanylabs.png",
     animation: "clapping",
   },
   {
@@ -161,7 +161,7 @@ export const workExperiences = [
     pos: "Junior Web Developer",
     duration: "February 2020 - March 2021",
     title: "I was responsible for the continuous maintenance, optimization, and smooth operation of a dynamic website",
-    icon: "/assets/quantumpixel.jpg",
+    icon: "assets/quantumpixel.jpg",
     animation: "salute",
   },
 ];
